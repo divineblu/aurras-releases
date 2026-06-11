@@ -3,12 +3,12 @@
     <channel>
         <title>Aurras</title>
         <item>
-            <title>1.7.0</title>
-            <pubDate>Thu, 11 Jun 2026 01:23:50 +0000</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <title>1.7.1</title>
+            <pubDate>Thu, 11 Jun 2026 06:21:39 +0000</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/divineblu/aurras-releases/releases/download/v1.7.0/Aurras.dmg" length="32923967" type="application/octet-stream" sparkle:edSignature="9UfU5rxN66/WYzdpTGCU/rAgnFB31jwlQzQvD9kM5h1VE0i/1GCnKOkrOlXdE5dIJweUwuH09nC2avBlbAyTBA=="/>
+            <enclosure url="https://github.com/divineblu/aurras-releases/releases/download/v1.7.1/Aurras.dmg" length="33083719" type="application/octet-stream" sparkle:edSignature="9dtNJNBRxyleQ4Drllctr9eBx4p8aWMJCxZR1d3kws24GD4959Okw0HelRWwQeJAbweqpoScwE9ABWeD5m+EDg=="/>
         </item>
     </channel>
 </rss>

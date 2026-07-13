@@ -8,6 +8,16 @@
             <sparkle:version>42</sparkle:version>
             <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li><strong>Safer Execute hard boundaries</strong> — caption + task checks, one-boundary approvals, scoped sensitive typing</li>
+<li><strong>Cancel / captions / Dictate</strong> — intent repair cancelled on barge-in; no stale confirmations; no late Dictate paste after timeout</li>
+<li><strong>Auth &amp; routing</strong> — no credential resurrection after sign-out; real force-refresh on 401; OpenAI no longer falls through during launch check</li>
+<li><strong>Memory</strong> — stronger secret filters; no bare “memory” over-inject; safer SQLite save path</li>
+<li><strong>Reliability</strong> — better loop detection; replace_selection requires a real selection</li>
+</ul>
+<p>Build 42.</p>
+]]></description>
             <enclosure url="https://github.com/divineblu/aurras-releases/releases/download/v1.8.2/Aurras.dmg" length="33352885" type="application/octet-stream" sparkle:edSignature="RFtYMjWiCC/Gei+OppbwBfq6X01+nwPJVUpAs2/ri5k54Pzx82wc9HFdI5wsCAlaifbQgYxIBZDxvV+4xK49DA=="/>
         </item>
     </channel>
